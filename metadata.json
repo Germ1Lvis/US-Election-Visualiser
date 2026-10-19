@@ -1,5 +1,6 @@
 {
   "name": "US Election Visualizer",
   "description": "An interactive web application to visualize US presidential election results by state and year. Allows viewing electoral votes, popular votes, and aggregating data across multiple elections.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
